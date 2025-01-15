@@ -1,5 +1,5 @@
 {
-	"name": "pipeline1",
+	"name": "pip_simple_copy1",
 	"properties": {
 		"activities": [
 			{
