@@ -1,0 +1,9 @@
+{
+	"name": "gen2devADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ed623d86-a341-4903-9da7-980882a60b2a",
+		"tenantId": "556a2bf1-1cfd-4527-8d4e-1ba27265cb13"
+	}
+}
